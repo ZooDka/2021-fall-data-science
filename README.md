@@ -1,7 +1,7 @@
 # 2021-fall-data-science
 2021-fall-data-science
 
-## Zoom Links
+## Zoom Links 
 * [Thursday's 6:30-9:00 Class](https://us02web.zoom.us/j/89733575001?pwd=bU5VU0s2cE1CVndvbUVDOHd2UG1YUT09)
 * [Friday's 3:00-5:30 Class]( https://us02web.zoom.us/j/89417050425?pwd=Nlk0NWdSVk96ZmppRG9vZjd2ZmhBZz09)
 
